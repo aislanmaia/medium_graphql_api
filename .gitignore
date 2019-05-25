@@ -1,3 +1,6 @@
+# Directory for IDE configurations for the project
+.elixir_ls/
+
 # The directory Mix will write compiled artifacts to.
 /_build/
 
